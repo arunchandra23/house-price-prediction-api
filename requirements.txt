@@ -1,13 +1,7 @@
 
 fastapi==0.81.0
 
-keras==2.9.0
-
 numpy==1.23.2
 
-starlette==0.19.1
-
 tensorflow==2.9.2
-
-urllib3==1.26.12
 uvicorn==0.18.3
